@@ -2,6 +2,10 @@
 
 ---
 
+Ce dépôt présente un guide complet pour la mise en place et l’exploitation d’un service de gestion de parc informatique avec GLPI sous Debian 12.
+Il couvre l’installation, la configuration et l’utilisation du serveur GLPI ainsi que de son agent de collecte, dans un contexte de laboratoire réseau.
+
+Tu y apprendras à installer le serveur GLPI, à déployer l’agent sur les postes clients, à collecter et analyser l’inventaire matériel et logiciel, ainsi qu’à gérer les incidents utilisateurs via le Helpdesk, conformément aux bonnes pratiques ITIL.
 
 ---
 
