@@ -1,5 +1,12 @@
 #  ` 🎟️ `︲Gestion Libre de Parc Informatique
 
+![GLPI](https://img.shields.io/badge/GLPI-ITSM-blue)
+![Helpdesk](https://img.shields.io/badge/Type-Helpdesk-success)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
+![Documentation](https://img.shields.io/badge/Guide-Installation-blue)
+
 ---
 
 Ce dépôt présente un guide complet pour la mise en place et l’exploitation d’un service de gestion de parc informatique avec GLPI sous Debian 12.
