@@ -1,11 +1,13 @@
 #  ` 🎟️ `︲Gestion Libre de Parc Informatique
 
-![GLPI](https://img.shields.io/badge/GLPI-ITSM-blue)
-![Helpdesk](https://img.shields.io/badge/Type-Helpdesk-success)
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
-![Documentation](https://img.shields.io/badge/Guide-Installation-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/GLPI-ITSM-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Helpdesk-28A745?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb&style=for-the-badge">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Guide-Installation-007ACC?style=for-the-badge">
+</p>
 
 ---
 
