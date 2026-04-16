@@ -1006,7 +1006,7 @@ http://localhost:62354/now
 
 ---
 
-* `🗃️ ︲ 🌐` **︲Documents/Liens d'annexes fournis dans le TP :**
+* `🗃️ ︲ 🌐` **︲Documents/Liens d'annexes :**
   * ` 📂 ` ︲`Gestion Libre de Parc Informatique — TP KATA`.`pdf`
 
   * ` 🌐 ` ︲`GLPI Project — Site officiel`︲[`🌐`](https://glpi-project.org/)
