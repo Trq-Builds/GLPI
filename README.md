@@ -1052,18 +1052,3 @@ http://localhost:62354/now
 > * ` ✅ ` ︲Sécurisation post-installation conforme aux bonnes pratiques.
 
 ---
-
-` 🔭 `︲**Pistes d'approfondissement :**
-
-* ` 🔒 ` ︲Mise en place du **HTTPS** avec Let's Encrypt (`certbot`).
-* ` 👥 ` ︲Synchronisation des utilisateurs avec un annuaire **LDAP / Active Directory**.
-* ` 🔔 ` ︲Configuration des **SLA** (Service Level Agreements) et alertes automatiques.
-* ` 📊 ` ︲Exploitation des **rapports statistiques** et tableaux de bord avancés.
-* ` 🔌 ` ︲Installation de plugins additionnels (**GLPI Inventory**, **FusionInventory**).
-
----
-
-> - *Être méticuleux jusque dans les moindres détails, c'est le secret.*
-> - *Crossin' your t's, dottin' your i's. That's the way to be.*
-
----
