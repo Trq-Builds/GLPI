@@ -1,6 +1,8 @@
 # ` 🎟️ `︲Gestion Libre de Parc Informatique
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4743b7b4-290f-4be7-a732-1439109cafff" width="100"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GLPI-11.0.x-007ACC?style=for-the-badge">
