@@ -1,5 +1,7 @@
 # ` 🎟️ `︲Gestion Libre de Parc Informatique
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/GLPI-11.0.x-007ACC?style=for-the-badge">
   <img src="https://img.shields.io/badge/Type-Helpdesk%20%2F%20ITSM-28A745?style=for-the-badge">
