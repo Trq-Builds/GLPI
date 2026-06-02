@@ -72,7 +72,7 @@ Tu y apprendras à installer le serveur GLPI, à déployer l'agent sur les poste
 
    ---
 
-7. [`🧑‍💼`︲Assistance aux utilisateurs (Helpdesk).](#assistance-utilisateurs)
+7. [`🧑‍💼`︲Assistance aux utilisateurs ().](#assistance-utilisateurs)
 
    * [`👤`︲Création d'un utilisateur de type normal.](#creation-utilisateur-normal)
    * [`🧾`︲Création d'un ticket d'incident.](#creation-ticket)
@@ -108,7 +108,7 @@ Tu y apprendras à installer le serveur GLPI, à déployer l'agent sur les poste
 ### `❔`︲Contexte et objectifs du TP.
 
 > [!NOTE]
-> Tu vas apprendre à installer et configurer un serveur **GLPI 11** sur **Debian 13**, à déployer l'agent sur des postes clients Linux et Windows, à collecter l'inventaire matériel et logiciel du parc, et à gérer les incidents utilisateurs via le module Helpdesk.
+> Tu vas apprendre à installer et configurer un serveur **GLPI 11** sur **Debian 13**, à déployer l'agent sur des postes clients Linux et Windows, à collecter l'inventaire matériel et logiciel du parc, et à gérer les incidents utilisateurs via le module .
 > L'objectif est de te permettre de maîtriser les bases de la gestion de parc informatique et du service desk, conformément aux bonnes pratiques **ITIL**, dans un environnement de type **BTS SIO SISR**.
 
 ---
@@ -141,7 +141,7 @@ Tu y apprendras à installer le serveur GLPI, à déployer l'agent sur les poste
 * ` 🔐 ` ︲Gestion des droits d'accès, des comptes utilisateurs et des habilitations.
 * ` 📅 ` ︲Planification des renouvellements matériels à court et moyen terme.
 * ` 💶 ` ︲Suivi financier et comptable (valeur d'achat, amortissement).
-* ` 🎫 ` ︲Gestion des incidents, tickets d'assistance et demandes utilisateurs (helpdesk).
+* ` 🎫 ` ︲Gestion des incidents, tickets d'assistance et demandes utilisateurs ().
 * ` 📈 ` ︲Analyse des besoins et planification des évolutions du système d'information.
 
 > [!TIP]
@@ -172,7 +172,7 @@ Détection → Enregistrement → Classification → Priorisation
 |----------------|------------------|
 | Très complet et reconnu mondialement | GLPI implémente les recommandations ITIL |
 | Aligné sur les besoins métier | Tickets, SLA, CMDB intégrée |
-| Processus structurés et mesurables | Helpdesk conforme aux bonnes pratiques |
+| Processus structurés et mesurables |  conforme aux bonnes pratiques |
 
 ---
 
@@ -703,9 +703,7 @@ Dans `services.msc`, vérifier que le service **GLPI Agent** est :
 
 <details>
   <summary>📸︲Tableau de bord GLPI.</summary>
-
-  ![Tableau de bord GLPI](screenshot_dashboard.png)
-
+<img width="1826" height="917" alt="image" src="https://github.com/user-attachments/assets/72bb67e9-7e3f-414a-b454-74702e7a106f" />
   *Vue du tableau de bord administrateur : compteurs du parc (logiciels, ordinateurs, matériels réseau), statut des tickets et graphiques mensuels.*
 
 </details>
@@ -713,7 +711,7 @@ Dans `services.msc`, vérifier que le service **GLPI Agent** est :
 <details>
   <summary>📸︲Liste des ordinateurs (Parc > Ordinateurs).</summary>
 
-  ![Liste des ordinateurs dans GLPI](screenshot_computers.png)
+<img width="1824" height="914" alt="image" src="https://github.com/user-attachments/assets/955a8855-6af2-4f28-9230-a9be46e87abf" />
 
   *Inventaire des postes remontés par les agents : nom, fabricant, numéro de série, type, système d'exploitation et date de dernière modification.*
 
@@ -776,7 +774,7 @@ http://localhost:62354
 ---
 
 <a id="assistance-utilisateurs"></a>
-# ` 🧑‍💼 `︲Assistance aux utilisateurs (Helpdesk).
+# ` 🧑‍💼 `︲Assistance aux utilisateurs ().
 
 ---
 
@@ -862,7 +860,9 @@ Se connecter avec le compte `technicien01` et consulter le ticket assigné.
 <details>
   <summary>📸︲Détail d'un ticket Helpdesk.</summary>
 
-  ![Détail d'un ticket GLPI](screenshot_ticket_detail.png)
+<img width="1816" height="911" alt="image" src="https://github.com/user-attachments/assets/0d07aed7-ffff-4a84-900e-707846e1468d" />
+<img width="1816" height="911" alt="image" src="https://github.com/user-attachments/assets/d4393dbd-8c82-406e-8613-a1dfc2502d43" />
+<img width="1815" height="906" alt="image" src="https://github.com/user-attachments/assets/c7968906-8ff5-4704-9dd1-64cfad0c23a6" />
 
   *Vue détaillée d'un ticket : fil de conversation entre l'utilisateur et le technicien, informations de résolution (date d'ouverture, date de résolution, statut, urgence).*
 
