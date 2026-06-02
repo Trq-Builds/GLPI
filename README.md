@@ -880,15 +880,6 @@ Se connecter avec le compte `technicien01` et consulter le ticket assigné.
 * Renseigner la solution dans le champ **Solution**.
 * Changer le statut en **Fermé** et valider.
 
-<details>
-  <summary>📸︲Liste des tickets en cours.</summary>
-
-  ![Liste des tickets GLPI](screenshot_tickets_list.png)
-
-  *Vue de la file de tickets : filtrage par statut, tri par date de modification, priorité colorée, attribution au technicien responsable.*
-
-</details>
-
 > [!TIP]
 > Le ticket clôturé est conservé dans l'historique GLPI avec l'intégralité du fil de traitement. Ces données alimentent les statistiques et le retour d'expérience ITIL.
 
